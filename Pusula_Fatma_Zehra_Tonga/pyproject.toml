@@ -1,0 +1,15 @@
+[project]
+name = "pusula-ds-case"
+version = "0.1.0"
+description = "EDA + preprocessing for Pusula Data Science Intern Case"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.1",
+    "numpy>=1.26",
+    "matplotlib>=3.8",
+    "seaborn>=0.13",
+    "scikit-learn>=1.4",
+    "openpyxl>=3.1",
+    "pyarrow>=15.0",
+    "joblib>=1.3",
+]
